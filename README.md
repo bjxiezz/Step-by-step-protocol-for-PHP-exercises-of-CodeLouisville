@@ -39,5 +39,5 @@
   * Click the green button at the left of the page "New Pull Request"
   * Click the green button at the left of the page "Create pull request"
   * Click the green button at the right of the page "Create pull request"
-  * Wait until the test finished (~2min needed here)
+  * Wait until the test finished (Normally, 1-5min is needed)
   * It should show "All checks have passed"
