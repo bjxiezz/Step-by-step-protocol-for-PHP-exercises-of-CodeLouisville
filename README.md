@@ -12,21 +12,21 @@
 2. git clone
   * Make a new folder under C:\xampp\htdocs, and rename it as "test3"
   * Start babun (a Windows shell) at that new folder 
-  * git clone: git clone https://github.com/UserName/php-exercise-string-search
+  * Type the following command in the shell: git clone https://github.com/UserName/php-exercise-string-search
 
 
 3. Programming accroding to the requirment of ReadMe
   * Start xampp and start Apache
-  * Note: testing data at C:\xampp\htdocs\test3\php-exercise-string-search\tests\StringSearchTest.php
+  * Note: testing data is located at the folder C:\xampp\htdocs\test3\php-exercise-string-search\tests\StringSearchTest.php
   * Note: you can check the result at xammp page (if you echo the test result out): http://localhost/test3/php-exercise-string-search/src/string_search.php
 
 
-4.  Runn Tests Locally
+4.  Runn Tests Locally (Type the following commands in the shell)
   * Add the path of php.exe (Note: this only needs to be done once): export PATH=$PATH:"/cygdrive/C/xampp/php"
   * Install composer (Note: this only needs to be done once): composer install
   * Run the tests: vendor/bin/phpunit
 
-5. Commit and push the solution to your fork
+5. Commit and push the solution to your fork (Type the following commands in the shell)
   * git add -A
   * git commit -m "tested locally"
   * git remote rm origin
