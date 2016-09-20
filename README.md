@@ -1,7 +1,7 @@
 # Step-by-step-protocol-for-PHP-exercises-of-CodeLouisville
 
-Please replace UserName as your own github user name
-Excerise 3 "php-exercise-string-search" was used as the example here
+* Please replace UserName as your own github user name. 
+* Excerise 3 "php-exercise-string-search" was used as the example here
  
 1. Fork
   * make sure that you have logged into github
