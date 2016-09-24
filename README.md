@@ -20,7 +20,7 @@
 
 
 3. Programming accroding to the requirment of ReadMe
-  * Start xampp and start Apache
+  * Start xampp and start Apache to test the codes locally (see the next step for detail)
   * Note: testing data is located at the folder C:\xampp\htdocs\test3\php-exercise-string-search\tests\StringSearchTest.php
   * Note: you can check the result at xammp page (if you echo the test result out): http://localhost/test3/php-exercise-string-search/src/string_search.php
 
