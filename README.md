@@ -3,8 +3,8 @@
 * Install zsh ("Z shell", a Unix shell that can be used as a command interpreter for shell scripting)
   * To install zsh on Windows (through babun): http://babun.github.io/
   * To install zsh on Mac (How to install “cool command line tools” (.oh-my-zsh)): https://github.com/robbyrussell/oh-my-zsh
-* XAMPP can be downloaded  here: https://www.apachefriends.org/index.html. 
-* Please replace "UserName" in the sample links using your own github user name. 
+* Install XAMPP: https://www.apachefriends.org/index.html. 
+* In the following example, please replace "UserName" with your own github user name. 
 * Excerise 3 "php-exercise-string-search" was used as the example here
  
 1. Fork
