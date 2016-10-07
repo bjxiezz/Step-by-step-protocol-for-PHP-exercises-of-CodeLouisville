@@ -26,6 +26,7 @@
 
 
 4.  Run Tests Locally (Type the following commands in the shell)
+  * Change the directory: cd php-exercise-string-search
   * Add the path of php.exe (Note: this only needs to be done once): export PATH=$PATH:"/cygdrive/C/xampp/php"
   * Install composer (Note: this only needs to be done once): composer install
   * Run the tests: vendor/bin/phpunit
